@@ -51,7 +51,7 @@ class Details extends StatelessWidget {
               color: Colors.black.withOpacity(0.1),
             ),
           ),
-          _construirSubtitulosDetalhes('Preparation Method'),
+          _construirSubtitulosDetalhes('Method'),
           _construirTextoDetalhes(recipe.method)
         ],
       ),
