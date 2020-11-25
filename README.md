@@ -1,16 +1,16 @@
-# flutter_recipe_app
+# Flutter recipe App
 
-An app designed to send information between two pages and learning more about layouts
+An app to simulate and Recipe App
 
-## Getting Started
+I've implemented it based on a Flutter online course (Alura: https://cursos.alura.com.br/course/flutter-introducao)
 
-This project is a starting point for a Flutter application.
+- List View
+- Switch between different screens
+- Send information to another screen (Navigator push/pop)
+- StateFulWidget / StatelessWidget
 
-A few resources to get you started if this is your first Flutter project:
+Tested in Android and iOS
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/leonardopresoto/flutter_recipe_app/blob/main/screenshots/layout1.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_recipe_app/blob/main/screenshots/layout2.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_recipe_app/blob/main/screenshots/layout3.png" height="500" />
