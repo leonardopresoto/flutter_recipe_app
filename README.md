@@ -1,6 +1,6 @@
 # Flutter recipe App
 
-An app to simulate and Recipe App
+An app to simulate a Recipe App
 
 I've implemented it based on a Flutter online course (Alura: https://cursos.alura.com.br/course/flutter-introducao)
 
